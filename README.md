@@ -1,4 +1,4 @@
-# Dice-Roller-Min-RPG
+# Dice-Roller-Mini-RPG
 
 Petit projet pour apprendre Python. Le but est de créer un jeu de rôle en console.
 
